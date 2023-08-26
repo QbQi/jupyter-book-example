@@ -10,10 +10,10 @@
 
 ## 아주 중요한 이미지
 ### 아주 아주 중요한 곰
-![bear](../static/md/bear.jpg)
+![bear](../images/md/bear.jpg)
 
 ### 아주 아주 중요한 러버덕
-![rubber_duck](../static/md/rubber_duck.png)
+![rubber_duck](../images/md/rubber_duck.png)
 
 ### 아주 아주 중요한 우유
-![milk](../static/md/milk.png)
+![milk](../images/md/milk.png)
