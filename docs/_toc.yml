@@ -5,6 +5,7 @@ root: index
 parts:
 - caption: Documents
   chapters:
+  - file: jupyter_book/index
   - file: markdown/index
     sections:
     - file: markdown/example
